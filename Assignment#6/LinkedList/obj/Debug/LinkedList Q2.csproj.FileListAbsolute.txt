@@ -1,0 +1,12 @@
+C:\Users\Mike\Desktop\Assignment#6\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Mike\Desktop\Assignment#6\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Mike\Desktop\Assignment#6\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Mike\Desktop\Assignment#6\LinkedList\obj\Debug\LinkedList Q2.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Assignment#6\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Mike\Desktop\Assignment#6\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\300794094\Desktop\Assignment#6\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\300794094\Desktop\Assignment#6\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\300794094\Desktop\Assignment#6\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\300794094\Desktop\Assignment#6\LinkedList\obj\Debug\LinkedList Q2.csproj.CoreCompileInputs.cache
+C:\Users\300794094\Desktop\Assignment#6\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\300794094\Desktop\Assignment#6\LinkedList\obj\Debug\LinkedList.pdb
